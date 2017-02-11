@@ -1,3 +1,9 @@
+# Student Assignment based on Angular Quickstart
+1. Fork this repository.
+2. Clone your fork of this repository to your machine.
+3. Complete the student progress assignment based on the screenshot in Slack. (link to come)
+4. Commit and push your changes to your fork of the repository on GitHub.
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
