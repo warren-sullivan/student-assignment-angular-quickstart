@@ -1,8 +1,18 @@
 # Student Assignment based on Angular Quickstart
 1. Fork this repository.
 2. Clone your fork of this repository to your machine.
-3. Complete the student progress assignment based on the screenshot in Slack. (link to come)
+3. Complete the student progress assignment based on the information and screenshot below.
 4. Commit and push your changes to your fork of the repository on GitHub.
+
+Assignment
+* Add the ability to add an assignment
+* When you click on the submit button it should add the assignment to the assignments list
+* Changes to the assignment list should update the student's performance table immediately
+* The grade should be calculated based on the percentage of points scored vs points possible <br/>
+  90 - 100 = A, 80 - 89 = B, 70-79 = C, 60-69 = D, \<60 = F
+  <p>
+![Results Image](Screen Shot 2017-02-11 at 1.18.10 PM.png?raw=true)
+
 
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
